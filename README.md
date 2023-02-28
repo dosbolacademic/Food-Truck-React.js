@@ -24,10 +24,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
-
-<img src="https://www.loom.com/share/2d1abb9532024d729752eedca621bd18" title='Video Walkthrough' width='' alt='Video Walkthrough' width=200 />
-
+<a href="https://www.loom.com/share/784bef1e51a24ba4860a9b32741bded8">
+    <p>Loom Message - 28 February 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/784bef1e51a24ba4860a9b32741bded8-with-play.gif">
+  </a>
+  
 Used Loom Message
 
 
