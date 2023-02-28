@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Food-Truck-React/static/css/main.e7f45fa9.css",
+    "main.js": "/Food-Truck-React/static/js/main.d036d977.js",
+    "index.html": "/Food-Truck-React/index.html",
+    "main.e7f45fa9.css.map": "/Food-Truck-React/static/css/main.e7f45fa9.css.map",
+    "main.d036d977.js.map": "/Food-Truck-React/static/js/main.d036d977.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f45fa9.css",
+    "static/js/main.d036d977.js"
+  ]
+}
