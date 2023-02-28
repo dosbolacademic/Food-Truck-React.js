@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dosbolacademic.github.io/Food-Truck-React",
+  "homepage":"http://dosbolacademic.github.io/Food-Truck-React.js",
   "name": "homework-assignment-1",
   "version": "1.0.0",
   "description": "",
@@ -9,8 +9,8 @@
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "keywords": [],
   "author": "",
