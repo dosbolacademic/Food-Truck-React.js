@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Food Truck*
 
 Submitted by: **Dosbol Aliev**
 
-This web app: **Food Truck(HW 1)**
+This web app: **HW 1**
 
 Time spent: **6** hours spent in total
 
