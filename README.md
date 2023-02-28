@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-<img src="https://www.loom.com/share/2d1abb9532024d729752eedca621bd18" width=200>
+
+<img src="https://www.loom.com/share/2d1abb9532024d729752eedca621bd18" title='Video Walkthrough' width='' alt='Video Walkthrough' width=200 />
 
 Used Loom Message
 
