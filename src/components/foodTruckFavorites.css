@@ -1,0 +1,87 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+    height: 100vh;
+  }
+  
+  .foodTrucks {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 350px;
+    grid-gap: 5px;
+  }
+  
+  
+  .foodTruck {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+ .foodTruck img {
+  height: 200px;
+  width: 250px;
+  object-fit: cover;
+}
+  
+  .foodTruck h3 {
+    margin: 0;
+  }
+  
+  .foodTruck button {
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+
+
+  .foodTruck button a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .foodTruck button:hover {
+    background-color: #0052a3;
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rating span {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+
+  .rounded {
+    border-radius: 10px;
+  }
+
+
+  @media only screen and (min-width: 600px) {
+    .foodTrucks {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media only screen and (min-width: 900px) {
+    .foodTrucks {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media only screen and (min-width: 1200px) {
+    .foodTrucks {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
