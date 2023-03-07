@@ -1,40 +1,25 @@
 {
-  "homepage":"http://dosbolacademic.github.io/Food-Truck-React.js",
-  "name": "homework-assignment-1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  
+  "name": "homework-assignment-2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@vitejs/plugin-react": "^3.1.0",
-    "gh-pages": "^5.0.0",
-    "vite": "^4.1.4"
+    "dev": "vite",
+    "build": "vite build",
+    
+    
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-dom": "^18.2.0"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "gh-pages": "^5.0.0",
+    "vite": "^4.1.0"
   }
 }
